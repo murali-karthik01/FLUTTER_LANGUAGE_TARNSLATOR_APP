@@ -1,0 +1,47 @@
+plugins {
+    id "com.android.application"
+    id "kotlin-android"
+    id "dev.flutter.flutter-gradle-plugin"
+}
+
+android {
+    namespace "com.example.google_translator_app"  // ✅ Use the same value
+    compileSdkVersion 34   // ✅ Added
+
+    defaultConfig {
+        applicationId "com.example.google_translator_app"
+        ndkVersion "25.1.8937393"
+        minSdkVersion 21    // ✅ Added
+        targetSdkVersion 34 // ✅ Added
+        versionCode 1
+        versionName "1.0"
+
+
+    }
+
+    buildTypes {
+        release {
+
+        minifyEnabled false
+       shrinkResources false
+        proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+
+        }
+    }
+      compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = "17"
+    }
+}
+
+flutter {
+    source '../..'
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+}

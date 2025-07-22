@@ -1,0 +1,2 @@
+D:/BLACKBUCKS_INTERNSHIP/LANGUAGE_TRANSLATOR/FLUTTER_APP/android/app/.cxx/Debug/1v1nz6k3/x86/CMakeFiles/edit_cache.dir
+D:/BLACKBUCKS_INTERNSHIP/LANGUAGE_TRANSLATOR/FLUTTER_APP/android/app/.cxx/Debug/1v1nz6k3/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+D:/BLACKBUCKS INTERNSHIP/LANGUAGE_TRANSLATOR/FLUTTER_APP/android/app/.cxx/RelWithDebInfo/386e3q10/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/BLACKBUCKS INTERNSHIP/LANGUAGE_TRANSLATOR/FLUTTER_APP/android/app/.cxx/RelWithDebInfo/386e3q10/armeabi-v7a/CMakeFiles/rebuild_cache.dir
