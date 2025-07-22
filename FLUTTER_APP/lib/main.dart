@@ -29,7 +29,8 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  final String apiKey = "AIzaSyBQ_IPhkw7QicYyNsk9ij-L8DtTePiRHq0";
+  //USE YOUR API KEY
+  final String apiKey ="PASTE YOUR API KEY";
 
   String dropdownFrom = "English";
   String dropdownTo = "Nepali";
