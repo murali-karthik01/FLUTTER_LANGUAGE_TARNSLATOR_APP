@@ -97,6 +97,21 @@ ai-translator/
 ├── pubspec.yaml
 └── README.md
 ```
+## DEMO PHOTOS
+  **TRANSLATOR APP – INITIAL STATE**
+
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/30ead9e0-20c2-4776-9726-230587f2856b" />
+
+
+  **TRANSLATOR APP – AFTER LAUNCH**
+
+<img width="940" height="526" alt="image" src="https://github.com/user-attachments/assets/10433bd2-e42a-469f-a38d-6a9a87d5a203" />
+
+  
+  **TRANSLATOR APP – FINAL OUTPUT**
+
+<img width="940" height="531" alt="image" src="https://github.com/user-attachments/assets/e5cc64f0-63e1-44ca-9b4c-3bb0c34ebb47" />
+
 
 ---
 ## 👤 Author
